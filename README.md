@@ -1,2 +1,2 @@
 # RomanNumeralConverter
-Roman numeral converter tool. Written in C#.
+Roman numeral converter. Written in C#.
